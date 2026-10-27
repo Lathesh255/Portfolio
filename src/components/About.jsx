@@ -16,7 +16,7 @@ export default function About() {
   const highlights = [
     {
       title: "MCA with High Academic Standing",
-      description: "Pursuing MCA at Dayananda Sagar Academy of Technology and Management, Bengaluru with an 8.56 CGPA following an 8.6 CGPA in BCA.",
+      description: "Completed MCA at Dayananda Sagar Academy of Technology and Management, Bengaluru with an 8.56 CGPA following an 8.6 CGPA in BCA.",
       icon: GraduationCap,
       color: "text-blue-400",
       bgColor: "bg-blue-500/10",

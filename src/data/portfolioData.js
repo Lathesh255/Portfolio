@@ -244,7 +244,7 @@ export const educationData = [
     year: "2024 – 2026",
     yearShort: "'26",
     grade: "8.56 CGPA",
-    badge: "Current / Master's Degree",
+    badge: "Completed / Master's Degree",
     highlights: [
       "Specialized in Software Engineering, Advanced Web Technologies, and Application Integration",
       "Authored IEEE research paper on Web Security Assessment under Dr. Chitra K",
